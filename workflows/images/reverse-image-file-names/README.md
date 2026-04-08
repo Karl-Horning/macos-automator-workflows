@@ -1,6 +1,6 @@
 # Reverse Image File Names
 
-**Reverses the order of a selected image sequence** using macOS Automator.
+**Reverses the order of a selected image sequence.**
 
 **Warning: This workflow renames the original files in place.**
 
@@ -21,19 +21,10 @@
 2. Right-click → **Quick Actions** → **Reverse Image File Names**
 3. Filenames are updated immediately
 
-## Inputs and outputs
-
-- **Input:** Sequentially named image files
-- **Output:** Same files, renamed with reversed numbering
-
-## Where it appears
-
-- Finder **Quick Action** (Services menu)
-
 ## Important notes
 
 - **No copies are created**
 - File contents are unchanged
 - File extensions are normalised to `.jpg`
 - Zero-padding (e.g. `0001`) is preserved
-- Tested on recent macOS versions
+- Tested on macOS 26

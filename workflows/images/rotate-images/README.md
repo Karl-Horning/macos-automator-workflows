@@ -1,6 +1,6 @@
 # Rotate Images
 
-**Rotates selected image files** using macOS Automator.
+**Rotates selected image files.**
 
 **Warning: These workflows modify the original image files in place.**
 
@@ -23,14 +23,9 @@
 2. Right-click → **Quick Actions**
 3. Choose the desired rotate workflow
 
-## Inputs and outputs
-
-- **Input:** Image files (JPG, PNG, TIFF, etc.)
-- **Output:** Same files, rotated in place
-
 ## Important notes
 
 - **No copies are created**
 - File contents are modified
 - File names and extensions are preserved
-- Tested on recent macOS versions
+- Tested on macOS 26
