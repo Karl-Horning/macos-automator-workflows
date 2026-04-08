@@ -11,7 +11,7 @@ A catalogue of all Automator workflows in this repository.
 | Rotate Images Right           | Rotates images 90° clockwise                       | Yes                |
 | Rotate Image 180º             | Rotates images upside down                         | Yes                |
 | Scale Images to 1280px        | Resizes images to 1280px wide                      | Yes                |
-| Normalise JPG Extension Names | Converts `.JPEG` / `.JPG` to `.jpg`                | Yes                |
+| Normalise JPG Extension Names | Converts `.JPEG` / `.jpeg` / `.JPG` to `.jpg`      | Yes                |
 | Number Images Sequentially    | Renames images to `IMG_0001` format                | Yes                |
 | Reverse Image File Names      | Reverses numbering of an image sequence            | Yes                |
 | Number Pages Sequentially     | Renames images to `PAGE_0000` format (starts at 0) | Yes                |
