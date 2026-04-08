@@ -1,6 +1,6 @@
 # Number Pages Sequentially
 
-**Renames image files to page-based sequential names** using macOS Automator.
+**Renames image files to page-based sequential names.**
 
 **Warning: This workflow renames the original files in place.**
 
@@ -18,19 +18,10 @@
 2. Right-click → **Quick Actions** → **Number Pages Sequentially**
 3. Filenames are updated immediately
 
-## Inputs and outputs
-
-- **Input:** Image files or folders containing images
-- **Output:** Same files, renamed sequentially
-
-## Where it appears
-
-- Finder **Quick Action** (Services menu)
-
 ## Important notes
 
 - **No copies are created**
 - File contents are unchanged
 - File extensions are normalised to `.jpg`
 - Zero-padding (e.g. `0000`) is preserved
-- Tested on recent macOS versions
+- Tested on macOS 26

@@ -1,6 +1,6 @@
 # New PDF from Images
 
-**Creates a single PDF from selected image files** using macOS Automator.
+**Creates a single PDF from selected image files.**
 
 ## What it does
 
@@ -15,18 +15,9 @@
 2. Right-click → **Quick Actions** → **New PDF from Images**
 3. A new PDF is created
 
-## Inputs and outputs
-
-- **Input:** Image files (JPG, PNG, TIFF, etc.)
-- **Output:** A single PDF file named `New PDF from Images Output.pdf`
-
-## Where it appears
-
-- Finder **Quick Action** (Services menu)
-
 ## Important notes
 
 - Original image files are preserved
-- The PDF is created on the **Desktop**
+- The PDF is created on the **Desktop** as `New PDF from Images Output.pdf`
 - Selection order determines page order
-- Tested on recent macOS versions
+- Tested on macOS 26

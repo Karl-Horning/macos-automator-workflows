@@ -1,6 +1,6 @@
 # Split PDF
 
-**Splits a multi-page PDF into individual page files** using macOS Automator.
+**Splits a multi-page PDF into individual page files.**
 
 ## What it does
 
@@ -16,19 +16,10 @@
 2. Right-click → **Quick Actions** → **Split PDF**
 3. The PDF is split into individual pages
 
-## Inputs and outputs
-
-- **Input:** A single multi-page PDF file
-- **Output:** One PDF per page, named `<original>-pageN.pdf`
-
-## Where it appears
-
-- Finder **Quick Action** (Services menu)
-
 ## Important notes
 
 - Original PDF is preserved
 - Output files are created on the **Desktop**
 - Page numbering starts at `1`
 - Large PDFs may take a few seconds to process
-- Tested on recent macOS versions
+- Tested on macOS 26

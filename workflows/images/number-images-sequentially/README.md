@@ -1,6 +1,6 @@
 # Number Images Sequentially
 
-**Renames selected image files to a sequential format** using macOS Automator.
+**Renames selected image files to a sequential format.**
 
 **Warning: This workflow renames the original files in place.**
 
@@ -17,19 +17,10 @@
 2. Right-click → **Quick Actions** → **Number Images Sequentially**
 3. Files are renamed immediately
 
-## Inputs and outputs
-
-- **Input:** Image files
-- **Output:** Same files, renamed sequentially
-
-## Where it appears
-
-- Finder **Quick Action** (Services menu)
-
 ## Important notes
 
 - **No copies are created**
 - File extensions are normalised to `.jpg`
 - There is a **macOS Automator limit of 1000 files**
 - Numbering restarts at `IMG_0001` each time the workflow runs
-- Tested on recent macOS versions
+- Tested on macOS 26

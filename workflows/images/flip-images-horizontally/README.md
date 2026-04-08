@@ -1,6 +1,6 @@
 # Flip Images Horizontally
 
-**Flips selected image files left-to-right** (mirror effect) using macOS Automator.
+**Flips selected image files left-to-right** (mirror effect).
 
 **Warning: This workflow modifies the original image files in place.**
 
@@ -16,18 +16,9 @@
 2. Right-click → **Quick Actions** → **Flip Images Horizontally**
 3. The selected images are flipped immediately
 
-## Inputs and outputs
-
-- **Input:** Image files (JPG, PNG, TIFF, etc.)
-- **Output:** Same files, modified in place
-
-## Where it appears
-
-- Finder **Quick Action** (Services menu)
-
 ## Important notes
 
 - **No copies are created**
 - Consider duplicating files before running
-- Tested on recent macOS versions
 - Large batches may take a few seconds
+- Tested on macOS 26

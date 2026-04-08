@@ -1,6 +1,6 @@
 # Normalise JPG Extension Names
 
-**Normalises JPEG file extensions** using macOS Automator.
+**Normalises JPEG file extensions to lowercase `.jpg`.**
 
 **Warning: This workflow renames the original files in place.**
 
@@ -17,18 +17,9 @@
 2. Right-click → **Quick Actions** → **Normalise JPG Extension Names**
 3. Filenames are updated immediately
 
-## Inputs and outputs
-
-- **Input:** Image files with `.jpeg`, `.JPEG`, `.JPG`, or `.jpg` extensions
-- **Output:** Same files, renamed to use `.jpg`
-
-## Where it appears
-
-- Finder **Quick Action** (Services menu)
-
 ## Important notes
 
 - **No copies are created**
 - File contents are unchanged
 - Useful for tooling that expects `.jpg` exactly
-- Tested on recent macOS versions
+- Tested on macOS 26
