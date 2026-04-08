@@ -2,8 +2,6 @@
 
 A catalogue of all Automator workflows in this repository.
 
-All workflows are exposed as **Finder Quick Actions** once installed.
-
 ## Image workflows
 
 | Workflow                      | Description                                        | Modifies originals |

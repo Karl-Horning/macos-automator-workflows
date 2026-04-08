@@ -1,7 +1,5 @@
 # Troubleshooting
 
-This page covers common issues when running the Automator workflows in this repository.
-
 ## The workflow does not appear in Quick Actions
 
 ### What to check

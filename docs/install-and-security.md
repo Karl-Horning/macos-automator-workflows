@@ -1,7 +1,5 @@
 # Installation and Security
 
-This document explains how to install the Automator workflows in this repository and how to resolve common macOS security issues.
-
 ## Installation
 
 1. Download or clone this repository
