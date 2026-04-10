@@ -71,3 +71,5 @@ Try splitting work into smaller batches.
 
 Open the workflow in **Automator** and run it there.
 Errors are often shown in the Automator log.
+
+If the problem persists, [open an issue](https://github.com/Karl-Horning/macos-automator-workflows/issues).
