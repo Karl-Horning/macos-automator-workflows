@@ -9,7 +9,7 @@ A catalogue of all Automator workflows in this repository.
 | Flip Images Horizontally      | Mirrors images left-to-right                       | Yes                |
 | Rotate Images Left            | Rotates images 90° counter-clockwise               | Yes                |
 | Rotate Images Right           | Rotates images 90° clockwise                       | Yes                |
-| Rotate Image 180º             | Rotates images upside down                         | Yes                |
+| Rotate Image 180°             | Rotates images upside down                         | Yes                |
 | Scale Images to 1280px        | Resizes images to 1280px wide                      | Yes                |
 | Normalise JPG Extension Names | Converts `.JPEG` / `.jpeg` / `.JPG` to `.jpg`      | Yes                |
 | Number Images Sequentially    | Renames images to `IMG_0001` format                | Yes                |

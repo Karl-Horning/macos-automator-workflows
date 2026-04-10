@@ -1,6 +1,6 @@
 # Rotate Images
 
-**Rotates selected image files.**
+Rotates selected image files.
 
 **Warning: These workflows modify the original image files in place.**
 
@@ -8,7 +8,7 @@
 
 - **Rotate Images Left** – Rotates images 90° counter-clockwise
 - **Rotate Images Right** – Rotates images 90° clockwise
-- **Rotate Image 180º** – Rotates images upside down
+- **Rotate Image 180°** – Rotates images upside down
 
 ## What they do
 

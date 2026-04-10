@@ -1,6 +1,6 @@
 # Number Pages Sequentially
 
-**Renames image files to page-based sequential names.**
+Renames image files to page-based sequential names.
 
 **Warning: This workflow renames the original files in place.**
 

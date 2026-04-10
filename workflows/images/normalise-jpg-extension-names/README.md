@@ -1,6 +1,6 @@
 # Normalise JPG Extension Names
 
-**Normalises JPEG file extensions to lowercase `.jpg`.**
+Normalises JPEG file extensions to lowercase `.jpg`.
 
 **Warning: This workflow renames the original files in place.**
 

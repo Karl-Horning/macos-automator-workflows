@@ -1,6 +1,6 @@
 # Scale Images
 
-**Scales selected image files to a fixed width.**
+Scales selected image files to a fixed width.
 
 **Warning: This workflow modifies the original image files in place.**
 
@@ -26,5 +26,5 @@
 - **No copies are created**
 - File contents are modified
 - File extensions are normalised to `.jpg`
-- Suitable for mixed image formats
+- Accepts a mix of JPEG and PNG files in the same selection
 - Tested on macOS 26
