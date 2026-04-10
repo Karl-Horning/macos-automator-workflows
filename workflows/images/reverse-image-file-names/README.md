@@ -1,6 +1,6 @@
 # Reverse Image File Names
 
-**Reverses the order of a selected image sequence.**
+Reverses the order of a selected image sequence.
 
 **Warning: This workflow renames the original files in place.**
 

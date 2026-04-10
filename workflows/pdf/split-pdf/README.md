@@ -1,6 +1,6 @@
 # Split PDF
 
-**Splits a multi-page PDF into individual page files.**
+Splits a multi-page PDF into individual page files.
 
 ## What it does
 

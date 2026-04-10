@@ -1,6 +1,6 @@
 # Number Images Sequentially
 
-**Renames selected image files to a sequential format.**
+Renames selected image files to a sequential format.
 
 **Warning: This workflow renames the original files in place.**
 

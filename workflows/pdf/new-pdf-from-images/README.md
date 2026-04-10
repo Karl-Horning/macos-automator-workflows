@@ -1,6 +1,6 @@
 # New PDF from Images
 
-**Creates a single PDF from selected image files.**
+Creates a single PDF from selected image files.
 
 ## What it does
 
