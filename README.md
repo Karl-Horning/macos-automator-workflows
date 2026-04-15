@@ -40,10 +40,10 @@ docs/
 └─ troubleshooting.md
 ```
 
-## Issues
+## Feedback
 
-If something does not work, [open an issue](https://github.com/Karl-Horning/macos-automator-workflows/issues).
+Found a bug? [Open an issue](https://github.com/Karl-Horning/macos-automator-workflows/issues).
 
-## Licence
+## License
 
-MIT © 2026 [Karl Horning](https://github.com/Karl-Horning)
+Released under the [MIT License](./LICENSE) by [Karl Horning](https://github.com/Karl-Horning).
